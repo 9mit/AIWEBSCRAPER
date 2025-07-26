@@ -1,4 +1,4 @@
-# AI Web Content Analyzer 🤖📄🔍
+# AI Web Content Analyzer 
 
 An interactive Python application that scrapes, cleans, and analyzes web page content, allowing users to ask questions directly about the page using Google's Gemini 1.5 Flash Large Language Model.
 
